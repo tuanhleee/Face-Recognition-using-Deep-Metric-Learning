@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env/
+
+# Data
+dataset/
+data/
+images/
+
+# Models
+*.pt
+*.h5
+*.keras
+*.onnx
+
+# Logs / outputs
+runs/
+logs/
+
+# OS
+.DS_Store
+
+
+
